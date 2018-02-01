@@ -155,7 +155,10 @@
   </dependencyManagement>
   <properties>
     <fabric8.version>2.2.170.redhat-000019</fabric8.version>
+    <maven-jar-plugin.version>2.4</maven-jar-plugin.version>
     <fabric8.maven.plugin.version>3.1.80.redhat-000019</fabric8.maven.plugin.version>
+    <maven-shade-plugin.version>3.1.0</maven-shade-plugin.version>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
 
